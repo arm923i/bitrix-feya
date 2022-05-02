@@ -1,0 +1,3 @@
+<?
+$MESS["SEARCH"] = "New search";
+?>

@@ -1,0 +1,4 @@
+<?
+$MESS["HEADER_RESERVATION"] = "Header";
+$MESS["HEADER_RESERVATION_DESCRIPTION"] = "Header";
+?>
